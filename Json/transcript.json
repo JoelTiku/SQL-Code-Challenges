@@ -1,0 +1,74 @@
+[
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 82,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 75,
+        "grade": "A"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 75,
+        "grade": "F"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 82,
+        "grade": "B"
+      },
+      {
+        "dcode": "CS",
+        "cno": 550,
+        "ssn": 83,
+        "grade": "B"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 80,
+        "grade": "C"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 80,
+        "grade": "C"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 84,
+        "grade": "B"
+      },
+      {
+        "dcode": "CS",
+        "cno": 330,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 530,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 530,
+        "ssn": 83,
+        "grade": "B"
+      }
+]

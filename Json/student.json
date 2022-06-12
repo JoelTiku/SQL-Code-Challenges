@@ -1,0 +1,38 @@
+[
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John",
+        "major": "CS",
+        "status": "active"
+      }
+]

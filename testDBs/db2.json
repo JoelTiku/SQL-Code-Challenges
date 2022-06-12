@@ -1,0 +1,171 @@
+{
+  "db_name": "university_database",
+  "tables": {
+    "student": [
+      {
+        "ssn": 10,
+        "name": "New",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 75,
+        "name": "Green",
+        "major": "OR",
+        "status": "active"
+      },
+      {
+        "ssn": 80,
+        "name": "Simpson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 82,
+        "name": "Robertson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 83,
+        "name": "Peterson",
+        "major": "CS",
+        "status": "active"
+      },
+      {
+        "ssn": 84,
+        "name": "John Smith",
+        "major": "CS",
+        "status": "active"
+      }
+    ],
+    "transcript": [
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 82,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 75,
+        "grade": "A"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 75,
+        "grade": "F"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 82,
+        "grade": "B"
+      },
+      {
+        "dcode": "CS",
+        "cno": 550,
+        "ssn": 83,
+        "grade": "B"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 80,
+        "grade": "C"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 80,
+        "grade": "D"
+      },
+      {
+        "dcode": "CS",
+        "cno": 211,
+        "ssn": 84,
+        "grade": "B"
+      },
+      {
+        "dcode": "CS",
+        "cno": 330,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "MTH",
+        "cno": 125,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 530,
+        "ssn": 84,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 530,
+        "ssn": 82,
+        "grade": "A"
+      },
+      {
+        "dcode": "CS",
+        "cno": 530,
+        "ssn": 83,
+        "grade": "B"
+      }
+    ],
+    "employee": [
+      {
+        "employeeID": "E1",
+        "employeeName": "John",
+        "departmentID": "D1",
+        "salary": 80000
+      },
+      {
+        "employeeID": "E2",
+        "employeeName": "Keith",
+        "departmentID": "D2",
+        "salary": 55000
+      },
+      {
+        "employeeID": "E3",
+        "employeeName": "Kate",
+        "departmentID": "D3",
+        "salary": 95000
+      },
+      {
+        "employeeID": "E4",
+        "employeeName": "John",
+        "departmentID": "D1",
+        "salary": 80000
+      },
+      {
+        "employeeID": "E5",
+        "employeeName": "Sky",
+        "departmentID": "D2",
+        "salary": 120000
+      },
+      {
+        "employeeID": "E6",
+        "employeeName": "Zach",
+        "departmentID": "D3",
+        "salary": 130000
+      }
+    ],
+    "department": [
+      {
+        "departmentID": "D1",
+        "departmentName": "underwriting"
+      },
+      {
+        "departmentID": "Human Resource",
+        "departmentName": "Information Technology"
+      }
+    ]
+  }
+}

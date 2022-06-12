@@ -1,0 +1,14 @@
+[
+  {
+    "departmentID": "D1",
+    "departmentName": "underwriting"
+  },
+  {
+    "departmentID": "D2",
+    "departmentName": "Human Resource"
+  },
+  {
+    "departmentID": "D3",
+    "departmentName": "Information Technology"
+  }
+]
