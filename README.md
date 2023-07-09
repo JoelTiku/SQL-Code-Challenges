@@ -16,6 +16,8 @@ $ cd <repo-name>
 
 to push your code to the repo
 
+$ git add .
+$ git commit -m "Second commit" --no-gpg-sign
 $ git push -u origin main
 
 ```
