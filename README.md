@@ -13,9 +13,27 @@ Clone the repository to your local machine:
 ```sh
 $ git clone <repo-name>
 $ cd <repo-name>
+
+to push your code to the repo
+
+$ git push -u origin main
+
 ```
 
-In the credentials.py file, add your MySQL username and password and save the credentials.py file.
+1. Edit the file credentials.py and fill it with your MySQL credentials (user
+and password). 
+
+2. Fill in your queries in queries.sql with your answers.
+
+2. In terminal, make sql_solutions your current folder
+
+3. In terminal, run python produce_answers_sql.py which will
+generate (or re-write) the file answers.json
+
+4. In terminal, run python report.py which will generate (or rewrite)
+the file report.json
+
+
 
 ### Contributing
 If you'd like to contribute to this repository by adding new challenges, improving existing ones, or fixing any issues, please feel free to submit a pull request. Your contributions are highly appreciated!

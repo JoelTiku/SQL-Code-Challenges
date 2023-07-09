@@ -57,7 +57,7 @@ select employeeName
 from employee
 group by employeeName
 having count(*) >= 2
-order by employeeID
+order by employeeID;
 
 
 

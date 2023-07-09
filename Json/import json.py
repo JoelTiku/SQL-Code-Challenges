@@ -30,7 +30,7 @@ def validate_string(val):
 
 # connect to MySQL
 print("Connecting ...")
-con = pymysql.connect(host="localhost", port=3306, user="root",password="Boyka_2022",db="db1")
+con = pymysql.connect(host="localhost", port=3306, user="root",password="root@123",db="db1")
 cursor = con.cursor()
 
 

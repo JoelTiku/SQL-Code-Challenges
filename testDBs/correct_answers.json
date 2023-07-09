@@ -1,72 +1,102 @@
 {
   "db1": {
-    "query1": [
-      {
-        "ssn": 82,
-        "name": "Robertson",
-        "major": "CS",
-        "status": "active"
-      },
-      {
-        "ssn": 84,
-        "name": "John",
-        "major": "CS",
-        "status": "active"
-      }
-    ],
-    "query2": [
-      {
-        "ssn": 84,
-        "name": "John",
-        "major": "CS",
-        "status": "active"
-      }
-    ],
-    "query3": [
-      {
-        "ssn": 82,
-        "name": "Robertson",
-        "major": "CS",
-        "status": "active"
-      }
-    ]
+      "query1": [
+          {
+              "ssn": 82,
+              "name": "Robertson",
+              "major": "CS",
+              "status": "active"
+          },
+          {
+              "ssn": 84,
+              "name": "John",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query2": [
+          {
+              "ssn": 84,
+              "name": "John",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query3": [
+          {
+              "ssn": 82,
+              "name": "Robertson",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query4": [
+          {
+              "employeeName": "John"
+          }
+      ],
+      "query5": [
+          {
+              "departmentName": "Human Resource",
+              "avg(e.salary)": 87500
+          },
+          {
+              "departmentName": "Information Technology",
+              "avg(e.salary)": 112500
+          }
+      ]
   },
   "db2": {
-    "query1": [
-      {
-        "ssn": 82,
-        "name": "Robertson",
-        "major": "CS",
-        "status": "active"
-      },
-      {
-        "ssn": 84,
-        "name": "John Smith",
-        "major": "CS",
-        "status": "active"
-      }
-    ],
-    "query2": [
-      {
-        "ssn": 82,
-        "name": "Robertson",
-        "major": "CS",
-        "status": "active"
-      },
-      {
-        "ssn": 84,
-        "name": "John Smith",
-        "major": "CS",
-        "status": "active"
-      }
-    ],
-    "query3": [
-      {
-        "ssn": 82,
-        "name": "Robertson",
-        "major": "CS",
-        "status": "active"
-      }
+      "query1": [
+          {
+              "ssn": 82,
+              "name": "Robertson",
+              "major": "CS",
+              "status": "active"
+          },
+          {
+              "ssn": 84,
+              "name": "John Smith",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query2": [
+          {
+              "ssn": 82,
+              "name": "Robertson",
+              "major": "CS",
+              "status": "active"
+          },
+          {
+              "ssn": 84,
+              "name": "John Smith",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query3": [
+          {
+              "ssn": 82,
+              "name": "Robertson",
+              "major": "CS",
+              "status": "active"
+          }
+      ],
+      "query4": [
+          {
+              "employeeName": "John"
+          }
+      ],
+      "query5": [
+        {
+            "departmentName": "Human Resource",
+            "avg(e.salary)": 87500
+        },
+        {
+            "departmentName": "Information Technology",
+            "avg(e.salary)": 112500
+        }
     ]
   }
 }
